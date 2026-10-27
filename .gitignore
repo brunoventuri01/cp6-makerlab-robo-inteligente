@@ -1,0 +1,31 @@
+# Segredos e configuracao local
+.env
+.env.*
+!.env.example
+# Dependencias e modelos (baixados separadamente)
+.venv/
+venv/
+python/
+runtime/
+models/
+# Dados pessoais e artefatos gerados
+data/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+firmware/compilado/
+*.hex
+*.elf
+*.eep
+*.bin
+*.onnx
+*.wav
+*.mp3
+# Modelagem e arquivos de fabricacao
+*.f3d
+*.dxf
+*.step
+*.stl
+# Sistema
+.DS_Store
+Thumbs.db
