@@ -126,6 +126,3 @@ Ações: `ARM_UP`, `ARM_DOWN`, `LED_ON`, `LED_OFF` e `WAVE`. A confirmação val
 
 Os testes verificam roteamento, negação de comandos, ausência de falso sucesso, respostas faladas e independência dos controles físicos em relação à conversa. Não substituem ensaios elétricos e mecânicos.
 
-## Créditos
-
-Projeto adaptado a partir de [jzampieri/cp_04_iot](https://github.com/jzampieri/cp_04_iot). A versão CP6 reúne a interface simples, processamento local e integração com o robô. Dependências e modelos de terceiros têm suas próprias licenças, que devem ser observadas separadamente.
